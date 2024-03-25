@@ -89,8 +89,8 @@ importers:
         specifier: ^0.34.3
         version: 0.34.3(typescript@5.3.3)
       '@pandacss/types':
-        specifier: ^0.34.3
-        version: 0.34.3
+        specifier: ^0.36.1
+        version: 0.36.1
       tsup:
         specifier: ^8.0.1
         version: 8.0.1(@microsoft/api-extractor@7.42.3)(postcss@8.4.35)(typescript@5.3.3)
@@ -898,6 +898,10 @@ packages:
 
   /@pandacss/types@0.34.3:
     resolution: {integrity: sha512-MBwY4DCQfzv3xMqj4y6QSkFUv3wW46ipCHp9hATaeMdyb0aE316xiAgXnxnPZQA+xpjhTpWv7QE7NN3S9g0j/A==}
+    dev: true
+
+  /@pandacss/types@0.36.1:
+    resolution: {integrity: sha512-F0mGFtXT2j1hNFi5Z1AXPxEYcHoaedyJyScEbsGga4aa2KlJCEPEX9UDdgltMlrhSilM7nq7RbrDMToZ/cwvOg==}
     dev: true
 
   /@pkgjs/parseargs@0.11.0:
