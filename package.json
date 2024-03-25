@@ -21,11 +21,11 @@
     "lint-staged": "^15.2.2",
     "prettier": "^3.2.5",
     "solid-js": "^1.8.15",
-    "typescript": "^5.2.2"
+    "typescript": "^5.4.3"
   },
   "peerDependencies": {
     "solid-js": "*",
-    "typescript": "^5.2.2"
+    "typescript": "^5.4.3"
   },
   "lint-staged": {
     "*.{ts,tsx,js}": "eslint --cache --fix",
