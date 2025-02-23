@@ -13,7 +13,7 @@
   ],
   "devDependencies": {
     "bun-types": "latest",
-    "esbuild-plugin-file-path-extensions": "^2.0.0"
+    "esbuild-plugin-file-path-extensions": "^2.1.3"
   },
   "peerDependencies": {
     "tsup": "*",
